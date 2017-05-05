@@ -1,0 +1,3 @@
+RAM VARIABLES
+	audio_player_is_playing (TRUE/FALSE)
+	microphone_recording_complete (TRUE/FALSE)
